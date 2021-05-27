@@ -1,4 +1,7 @@
-# spring transaction failed reason
+# hint
+https://help.aliyun.com/knowledge_detail/52221.html?spm=a2c4g.11186623.2.5.1a712eb32IoS5I
+
+# spring transaction failed reasons
 https://github.com/MagicienDeCode/Transactional
 
 # transaction Inherited
