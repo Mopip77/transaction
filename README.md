@@ -1,6 +1,9 @@
 # hint
 https://help.aliyun.com/knowledge_detail/52221.html?spm=a2c4g.11186623.2.5.1a712eb32IoS5I
 
+# self invocation
+https://blog.csdn.net/yangcheng33/article/details/86634981
+
 # spring transaction failed reasons
 https://github.com/MagicienDeCode/Transactional
 
